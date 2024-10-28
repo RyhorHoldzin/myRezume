@@ -1,0 +1,83 @@
+css
+body {
+    background-color: #d3d3d3; 
+    margin: 0; 
+}
+
+#page {
+    position: relative;
+    background-color: white;
+    margin: 0 auto; 
+    width: 850px; 
+    box-shadow: 0px 0px 15px 10px rgb(200, 200, 200);
+}
+
+#header {
+  text-align: center;
+  font-size: 14px;
+  background-color: #222;
+  color: white;
+  height: 145px;
+  border-bottom: 8px solid #bbb;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-top: 10px;
+  }
+  #footer {
+    padding: 20px;
+    border-top: 8px solid #bbb;
+    background-color: rgb(53, 60, 62);
+    color: white;
+    text-align: center;
+  }
+#name {
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#adress{
+  font-size: 15px;
+  color: white;
+}
+#adress a{
+  color: white;
+}
+#adress img{
+  width: 12px;
+  height: 12px;
+}
+#adress ul{
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  margin-top: 20px;
+}
+#adress li{
+  display: inline;
+  margin-right: 15px;
+}
+#content_adress ul{
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  margin-top: 20px;
+}
+#content_adress li{
+  display: inline;
+  margin-right: 15px;
+}
+#content_adress{
+  font-size: 15px;
+  color: white;
+}
+#content_adress a{
+  color:grey;
+}
+#content {
+    font-size: 16px;
+    font-family:'Times New Roman', Times, serif;
+    margin-left: 20px;
+}
+#content h1{
+  margin-left: 20px;
+}
+
